@@ -98,7 +98,7 @@ class LinkedList {
    *
    * @throw std::out_of_range Se a lista estiver vazia.
    */
-  void pop_front();
+  void pop_front(); 
 
   /**
    * @brief Remove o elemento na posição especificada.
